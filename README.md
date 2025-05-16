@@ -1,16 +1,35 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&text=Hey%20There%20%F0%9F%A4%97)
+<div>
 
-<!--
-**Adonis0219/Adonis0219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <!--Header Part-->
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&text=Welcome%20to-nl-Adonis's%20GitHub%20%F0%9F%A4%97)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <!--Body Part-->
+  ## 🐻 About Me
+  #### 🙋‍♂️ I am a person who likes to make games<br/>
+  #### 🔥 I want to be a game programmer!
+  <br/>
+  <br/>
+
+  ## 🧮 Task Stack
+  ### Languege
+  <!--C#-->
+  <img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=C&logoColor=white"/>
+  ### Engine
+  <!--Unity-->
+  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=Blue"/>  
+  ### IDE
+  <!--Visual Studio-->
+  <img src="https://img.shields.io/badge/VisualStudio-239120?style=flat-square&logo=Visual-Studio&logoColor=white"/>
+  <!--Rider-->
+  <img src="https://img.shields.io/badge/Rider-000000?style=flat-square&logo=Rider&logoColor=white"/>
+
+
+  ## :bulb: GitHub Stats
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anois0219)](https://github.com/Anois0219/github-readme-stats)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adonis0219&layout=compact)
+  ## :bulb: BaekJoon Stats
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sinju0221)](https://solved.ac/sinju0221/)
+</div>
