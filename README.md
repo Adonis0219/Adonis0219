@@ -19,7 +19,7 @@
           <div align= "center">  </div> 
     <h2 align="center">📧 Email 📧</h2>
 <p align="center">
-  <Strong> wintiger0908@gmai.com </Strong>
+  <Strong> wintiger0908@gmail.com </Strong>
 </p><br>
   <br/>
   <br/>
