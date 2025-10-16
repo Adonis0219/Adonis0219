@@ -28,17 +28,23 @@
   ## 🧮 Task Stack
   ### Languege
   <!--C#-->
-  <img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=C&logoColor=white"/><br/>
-  ### Engine
+  <img src="https://img.shields.io/badge/CSharp-239120?style=for-the-badgee&logo=C&logoColor=white"/><br/>
+  
+  ### Stack
   <!--Unity-->
-  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=Blue"/>
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=Blue"/>
   <!--MongoDB-->
-  <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/></br>
+  <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <!--GitHub-->
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  <!--Git-->
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"><br/>
+  
   ### IDE
   <!--Visual Studio-->
-  <img src="https://img.shields.io/badge/VisualStudio-239120?style=flat-square&logo=Visual-Studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VisualStudio-239120?style=for-the-badge&logo=Visual-Studio&logoColor=white"/>
   <!--Rider-->
-  <img src="https://img.shields.io/badge/Rider-000000?style=flat-square&logo=Rider&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rider-000000?style=for-the-badgee&logo=Rider&logoColor=white"/>
 
 
   ## :bulb: GitHub Stats
