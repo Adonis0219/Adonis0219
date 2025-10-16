@@ -10,7 +10,8 @@
   
   ## 🐻 About Me<br/>
   #### 🙋‍♂️ I am a person who likes to make games<br/>
-  #### 🔥 I want to be a game programmer!<br/><br/>
+  #### 🔥 I want to be a game programmer!<br/>
+  #### 💻 I like to design a new system<br/><br/>
 
   ## <div align= "center">📞 Contact Me<br/>
   <div align= "center"> <a href=https://www.instagram.com/dung.__.ho> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/dung.__.ho"> </a>
