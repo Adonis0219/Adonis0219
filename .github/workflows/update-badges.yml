@@ -13,3 +13,4 @@ jobs:
         uses: pemtajo/badge-readme@main
         with:
           CREDLY_USER: "adonis0219"
+          BADGE_SIZE: 120x120
