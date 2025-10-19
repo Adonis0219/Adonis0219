@@ -43,7 +43,8 @@
 
   ### Certification
   <!--START_SECTION:badges-->
-  <!--END_SECTION:badges-->
+<a href="https://www.credly.com/badges/319c744c-86a9-4d20-9635-2b4e8c8ee688" title="Unity Certified User: Programmer"><img src="https://images.credly.com/size/80x80/images/51da8803-3699-4392-8ef5-3291e6bc084d/image.png" alt="Unity Certified User: Programmer" width="80" height="80"></a>
+<!--END_SECTION:badges-->
   
   ### IDE
   <!--Visual Studio-->
